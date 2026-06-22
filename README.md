@@ -156,13 +156,11 @@ Predicts the next words given input text.
 
 <!-- Add your team members below with their roles and GitHub profiles -->
 
-| Name                   | Role         | GitHub                                               | Contact                     |
-| ---------------------- | ------------ | ---------------------------------------------------- | --------------------------- |
-| **Tanmay Sahoo**       | Project Lead | [@tanmay-sahoo89](https://github.com/tanmay-sahoo89) | [sahootanmay2005@gmail.com] |
-| **[Team Member Name]** | [Role]       | [GitHub Profile]                                     | [Email]                     |
-| **[Team Member Name]** | [Role]       | [GitHub Profile]                                     | [Email]                     |
-| **[Team Member Name]** | [Role]       | [GitHub Profile]                                     | [Email]                     |
-| **[Team Member Name]** | [Role]       | [GitHub Profile]                                     | [Email]                     |
+| Name                       | GitHub                                               | Contact                      |
+| -------------------------- | ---------------------------------------------------- | ---------------------------- |
+| **Tanmay Chiranjib Sahoo** | [@tanmay-sahoo89](https://github.com/tanmay-sahoo89) | [sahootanmay2005@gmail.com]  |
+| **Abhimanyu Panda**        | [@Gitodear](https://github.com/Gitodear)             | [abhimanyu17panda@gmail.com] |
+| **Akash Kumar Meher**      | [GitHub Profile]                                     | [Email]                      |
 
 > 💡 **To Add Team Members**: Edit the table above with your teammates' information. Include their GitHub profiles and contact information.
 
