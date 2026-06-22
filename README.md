@@ -162,8 +162,6 @@ Predicts the next words given input text.
 | **Abhimanyu Panda**        | [@Gitodear](https://github.com/Gitodear)             | [abhimanyu17panda@gmail.com] |
 | **Akash Kumar Meher**      | [GitHub Profile]                                     | [Email]                      |
 
-> 💡 **To Add Team Members**: Edit the table above with your teammates' information. Include their GitHub profiles and contact information.
-
 ---
 
 ## 📚 Model Details
@@ -274,12 +272,6 @@ Contributions are welcome! Please follow these guidelines:
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** - see the LICENSE file for more details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **TensorFlow/Keras** - Amazing deep learning framework
@@ -299,11 +291,9 @@ This project is licensed under the **MIT License** - see the LICENSE file for mo
 
 ---
 
-**Last Updated**: June 2026  
-**Version**: 1.0.0  
-**Status**: Active Development
+## 📜 License
 
-⭐ If you found this project helpful, please consider giving it a star on GitHub!
+This project is licensed under the **MIT License** - see the LICENSE file for more details.
 
 ---
 
