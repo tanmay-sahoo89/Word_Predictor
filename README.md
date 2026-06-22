@@ -160,7 +160,7 @@ Predicts the next words given input text.
 | -------------------------- | ---------------------------------------------------- | ---------------------------- |
 | **Tanmay Chiranjib Sahoo** | [@tanmay-sahoo89](https://github.com/tanmay-sahoo89) | [sahootanmay2005@gmail.com]  |
 | **Abhimanyu Panda**        | [@Gitodear](https://github.com/Gitodear)             | [abhimanyu17panda@gmail.com] |
-| **Akash Kumar Meher**      | [GitHub Profile]                                     | [Email]                      |
+| **Akash Kumar Meher**      | [@Akash04Meher](https://github.com/Akash04Meher)     | [meher4aka.sh@gmail.com]     |
 
 ---
 
